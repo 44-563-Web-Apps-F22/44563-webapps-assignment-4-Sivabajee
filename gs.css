@@ -61,5 +61,8 @@ table.table{
     padding: 60px;
     margin:15px;
 }
+tr:nth-child(odd){
+    background-color: yellow;
+}
 
 
