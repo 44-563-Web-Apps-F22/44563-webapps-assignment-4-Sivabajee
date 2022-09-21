@@ -54,3 +54,12 @@ direction:hover{
     color: rgb(164, 23, 96);
 }
 
+table.table{
+    border:1mm;
+    color:red;
+    text-align: center;
+    padding: 60px;
+    margin:15px;
+}
+
+
