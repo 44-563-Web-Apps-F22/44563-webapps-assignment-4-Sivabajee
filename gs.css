@@ -1,22 +1,56 @@
 Speech{
     font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
     color: black;
 }
 song{
     font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
     color: black;
 
 }
 direction{
     font-size: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: black;
     background-color: aliceblue;
 
 }
-name{
+h6.name{
     font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: black;
 
 
 
 }
+direction:hover{
+    background-color: yellow;
+}
+.GIR{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+.MAB{
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 0);
+}
+.FRE{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+.GEN{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(164, 23, 23);
+}
+.POL{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(164, 23, 96);
+}
+
